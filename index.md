@@ -6,10 +6,10 @@
 
 ### Others
 
-- [Rename filename in Bulk](https://github.com/ukkdosm/sharecode/blob/gh-pages/Rename%20Files%20in%20Bulk.xlsx) **Excel-CMD** <br>
+- [Rename filename in Bulk](https://github.com/ukkdosm/sharecode/blob/gh-pages/Rename%20Files%20in%20Bulk.xlsx) **(Excel-CMD)** <br>
 (reference: https://www.howtogeek.com/111859/how-to-batch-rename-files-in-windows-4-ways-to-rename-multiple-files/)
-- [Create download platform for eCert](https://github.com/ukkdosm/sharecode/blob/gh-pages/Create_eCert.pptx) **Google Sheet** <br>
-(reference: awesome-table.com)
+- [Create download platform for eCert](https://github.com/ukkdosm/sharecode/blob/gh-pages/Create_eCert.pptx) **(Google Sheet)** <br>
+(reference: https://awesome-table.com)
 
 
 
