@@ -1,4 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to ShareCode Pages
+
+### Jupyter Notebook
+
+- [Convert SPSS to CSV](https://github.com/ukkdosm/sharecode/blob/gh-pages/SPSS%20to%20Excel.ipynb)
+
+### Excel-CMD
+
+- [Rename filename in Bulk](https://github.com/ukkdosm/sharecode/blob/gh-pages/Rename%20Files%20in%20Bulk.xlsx)
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/ukkdosm/sharecode/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
