@@ -6,7 +6,8 @@
 
 ### Excel-CMD
 
-- [Rename filename in Bulk](https://github.com/ukkdosm/sharecode/blob/gh-pages/Rename%20Files%20in%20Bulk.xlsx)
+- [Rename filename in Bulk](https://github.com/ukkdosm/sharecode/blob/gh-pages/Rename%20Files%20in%20Bulk.xlsx) <br>
+(reference: https://www.howtogeek.com/111859/how-to-batch-rename-files-in-windows-4-ways-to-rename-multiple-files/)
 
 
 
