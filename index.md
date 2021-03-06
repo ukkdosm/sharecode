@@ -12,12 +12,4 @@
 - [Create download platform for eCert](https://github.com/ukkdosm/sharecode/blob/gh-pages/Create_eCert.pptx) **(Google Sheet)** <br>
 (reference: https://awesome-table.com)
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('najariffin', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#fcbf47',
-    'floating-chat.donateButton.text-color': '#323842'
-  });
-</script>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J33UVAE)
