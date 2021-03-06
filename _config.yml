@@ -1,2 +1,2 @@
-theme: minimal-mistakes-jekyll #jekyll-theme-cayman
-minimal_mistakes_skin: "mint" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+theme: jekyll-theme-cayman
+#minimal_mistakes_skin: "mint" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
