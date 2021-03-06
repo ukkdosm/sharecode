@@ -3,7 +3,7 @@
 ### Jupyter Notebook
 
 - [Convert SPSS to CSV](https://github.com/ukkdosm/sharecode/blob/gh-pages/SPSS%20to%20Excel.ipynb)
-- [Tutorial Address to Geocode OSM_Photon](https://github.com/ukkdosm/sharecode/blob/gh-pages/Tutorial%20Address%20to%20Geocode%20OSM_Photon.ipynb) | Sample Dataset [₪](https://raw.githubusercontent.com/ukkdosm/sharecode/gh-pages/sample_addr.csv)
+- [Tutorial Address to Geocode OSM_Photon](https://github.com/ukkdosm/sharecode/blob/gh-pages/Tutorial%20Address%20to%20Geocode%20OSM_Photon.ipynb) /  [₪](https://raw.githubusercontent.com/ukkdosm/sharecode/gh-pages/sample_addr.csv) Sample Dataset
 
 ### Others
 
