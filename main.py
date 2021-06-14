@@ -16,7 +16,7 @@ import ipywidgets as widgets
 # In[176]:
 
 
-df = pd.read_csv(r"E:\GEProject\generic_ballot_pollsNEW.csv")
+df = pd.read_csv("generic_ballot_pollsNEW.csv")
 df.head()
 df.stb.freq(['parliament'])
 
@@ -68,7 +68,7 @@ import sidetable
 # In[181]:
 
 
-results_df = pd.read_csv(r"E:\GEProject\generic_ballot_pollsNEW.csv")
+results_df = pd.read_csv("generic_ballot_pollsNEW.csv")
 
 
 # In[182]:
